@@ -18,9 +18,8 @@
 
   ## License:
 
-  [![license](https://img.shields.io/badge/license-MIT.svg)-brightgreen]
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)]
 
-  MIT
 
   ## Tests:
 
